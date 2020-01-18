@@ -99,7 +99,7 @@ div , footer {
 }
 
 h1.name {
-	font-size: 70px;
+	font-size: 50px;
 	font-weight: 300;
 	display: inline-block;
 }
@@ -125,10 +125,10 @@ h1.name {
 }
 
 .lead {
-	font-size: 44px;
+	font-size: 25px;
 	font-weight: 300;
 	margin-top: 60px;
-	line-height: 55px;
+	line-height: 35px;
 }
 
 /*hero ends*/
